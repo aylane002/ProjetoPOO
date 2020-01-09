@@ -5,5 +5,7 @@ public class Pratos {
             String nome;
             String id;
             String engredientes;
+            double valor;
 
+            public
 }
