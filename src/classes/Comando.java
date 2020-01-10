@@ -1,15 +1,17 @@
 package classes;
 
 public class Comando {
-    String pedido[] pedidos ;
-    int quantidade;
+    private Pedido[] pedido ;
 
-    public Double calcularPreco(){
+    public Double calculaPreco(){
         Double total = Double.valueOf(0);
     }
 
-    if(int i;i<pedidos.length;i++){
+    if(int i=0 ;i<pedido.length; i++){
         pedido um = pedido[i];
         total+= um.calculaPreco;
     }
+    return total;
 }
+
+

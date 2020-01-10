@@ -7,5 +7,7 @@ public class Pratos {
             String engredientes;
             double valor;
 
-            public
+            public Double getValor(){
+                    return  this.valor;
+            }
 }

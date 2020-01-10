@@ -24,8 +24,8 @@ public class Mesa {
        public void desocupaMesa(double valorPago){
            Double total = comando.calculaPreco();
            if(valorPago>=total){
-               this.quantidadePessoas;
-               this.estaLivre;
+               this.numOcupantes=0;
+               this.estaLivre=true;
                this.comando=null;
            }
         }
