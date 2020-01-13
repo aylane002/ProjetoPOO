@@ -1,4 +1,4 @@
-package classes;
+/*package classes;
 
 public class Conta {
     String pedido;
@@ -7,3 +7,4 @@ public class Conta {
     Mesa mesa;
     Pessoas responsavel;
 }
+*/

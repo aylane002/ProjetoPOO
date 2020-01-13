@@ -1,4 +1,4 @@
-package classes;
+/*package classes;
 
 public class Mesa {
     int capacidade;
@@ -31,3 +31,4 @@ public class Mesa {
         }
 
 }
+*/

@@ -1,13 +1,14 @@
-package br.ufrn.tads.poo;
+/*package br.ufrn.tads.poo;
 
-import testes.Humano;
-import testes.Retangulo;
+import teste.ContaInter;
 
 public class Main {
-    public static void main(String[] args) {
 
 
-        Retangulo r = new Retangulo(2, 4);
+
+
+
+       Retangulo r = new Retangulo(2, 4);
 
         int area = r.calcular();
         System.out.println("Area de r:" + r.calcular());
@@ -20,9 +21,9 @@ public class Main {
         System.out.println("Area de r:" + r.calcular());
     }
 
-
-
-
 }
+     */
+
+
 
 
