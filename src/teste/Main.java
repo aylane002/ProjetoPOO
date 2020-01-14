@@ -2,8 +2,10 @@ package teste;
 
 public class Main {
     public static void main(String[] args) {
-        ContaInter conta1 = new ContaBancaria();
-        ContaInter conta2 = new ContaBancaria();
+        ContaInter conta1 = new ContaCorrente();
+        ContaInter conta2 = new ContaPoupanca();
+
+
 
         conta1.deposito(200.0);
         conta2.deposito(100.0);
